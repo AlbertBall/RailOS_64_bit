@@ -1,0 +1,1 @@
+This repo is now archived.  It was set up when developing a 64 bit version but I soon realised that it wasn't necessary.  A single set of source files is all that is needed (in railway-dot-exe), from which both 32 and 64 bit versions can be compiled.
